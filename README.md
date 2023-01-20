@@ -30,7 +30,7 @@ GitHub releases allow your team to package and provide software to your users ba
 endstep0-->
 
 <!--Step 1-->
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a beta release</h2></summary>
 
 ### The GitHub flow
@@ -217,7 +217,7 @@ Now let's change our recently automated release from _draft_ to _latest release_
 </details>
 
 <!--Step 6-->
-<details id=6>
+<details id=6 open>
 <summary><h2>Step 6: Commit a hotfix to the release</h2></summary>
 
 Notice that I didn't delete the branch? That's intentional.
